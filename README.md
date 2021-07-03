@@ -1,6 +1,8 @@
 # RustAutoComplete
 A binding for Sublime Text to the Rust auto completion tool by Phil Dawes (https://github.com/phildawes/racer).
 
+(This is a fixed version from [defuz](https://github.com/defuz/RustAutoComplete), the original repo is out of maintenance.)
+
 ## Features
 * Auto complete (invoked automatically on Rust files).
 * Go to definition (default key binding is F2).
@@ -44,4 +46,4 @@ and edit the settings file using below as a template:
 ```
 
 ## Contact
-https://github.com/glennw/RustAutoComplete
+https://github.com/typowritter/RustAutoComplete
